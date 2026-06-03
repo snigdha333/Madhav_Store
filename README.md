@@ -127,5 +127,5 @@ Useful for inventory planning and product portfolio optimization.
 💳 Payment Experience Enhancement : Analyze customer payment preferences and improve payment options to reduce checkout friction.
 📅 Seasonal Planning : Use monthly profit trends to prepare promotional campaigns and inventory strategies during low-performing periods.
 
-6.	Screenshots / Demos
+6. Screenshots / Demos
 https://github.com/snigdha333/Madhav_Store/blob/main/Madhav_Store.png
